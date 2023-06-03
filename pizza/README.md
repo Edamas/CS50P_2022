@@ -1,3 +1,12 @@
+* to execute the python file, download the pizza folder and type:
+````
+$ python pizza.py regular.csv
+````
+or 
+````
+$ python3 pizza.py sicilian.csv
+````
+
 Perhaps the most popular place for pizza in Harvard Square is Pinocchio’s Pizza & Subs, aka Noch’s, known for its Sicilian pizza, which is “a deep-dish or thick-crust pizza.”
 
 Students tend to buy pizza by the slice, but Pinocchio’s also has whole pizzas on its menu too, per this CSV file of Sicilian pizzas, sicilian.csv, below:
